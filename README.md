@@ -6,6 +6,6 @@
 
 🖥️ Focus is on JS Project(Hunger-2023).
 
-🚋 Capture nature and draw but in the mind.
+🚋 Capture nature with choice in the mind.
 
 📖 Design good life.
