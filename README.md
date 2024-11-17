@@ -2,7 +2,7 @@
 
 🏀 One Skill.
 
-👦 I'm an IT graduate.
+👦 I'm a reader.
 
 🖥️ Focus is on JS Project(Hunger-2023).
 
